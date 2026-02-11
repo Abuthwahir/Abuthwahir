@@ -1,13 +1,13 @@
 # Hi 👋, I'm Abuthwahir H M
 
-🎓 **Student at <PES University>**  
+🎓 **Student at PES University**  
 🚀 **Interests:** Software Development, Machine Learning, Web Development, and Building Real-World Projects  
 📍 **From:** India  
 
 ---
 
 ## 🌐 Socials:
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@iDevMalayalam)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@iDevMalayalam)
 
 ---
 
