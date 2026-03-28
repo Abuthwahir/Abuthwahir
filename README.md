@@ -65,25 +65,42 @@
   <img src="https://img.shields.io/badge/Explainable%20AI-111827?style=for-the-badge" />
 </p>
 
+<!-- CORE SKILLS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-Python-F8FAFC?style=for-the-badge&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/-C++-F8FAFC?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" />
-  <img src="https://img.shields.io/badge/-JavaScript-F8FAFC?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/-React-F8FAFC?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/-Node.js-F8FAFC?style=for-the-badge&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/-Python-F8FAFC?style=for-the-badge&logo=python&logoColor=3776AB" />
   <img src="https://img.shields.io/badge/-Flask-F8FAFC?style=for-the-badge&logo=flask&logoColor=000000" />
+  <img src="https://img.shields.io/badge/-MERN%20Stack-F8FAFC?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+</p>
+
+<!-- WEB + DB -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-F8FAFC?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/-CSS3-F8FAFC?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/-JavaScript-F8FAFC?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/-MySQL-F8FAFC?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/-MongoDB-F8FAFC?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+</p>
+
+<!-- TOOLS -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-Git-F8FAFC?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/-Linux-F8FAFC?style=for-the-badge&logo=linux&logoColor=000000" />
   <img src="https://img.shields.io/badge/-Streamlit-F8FAFC?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" />
 </p>
 
+<!-- LEARNING -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-MongoDB-F8FAFC?style=for-the-badge&logo=mongodb&logoColor=47A248" />
-  <img src="https://img.shields.io/badge/-MySQL-F8FAFC?style=for-the-badge&logo=mysql&logoColor=4479A1" />
-  <img src="https://img.shields.io/badge/-Git-F8FAFC?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/-Linux-F8FAFC?style=for-the-badge&logo=linux&logoColor=000000" />
+  <img src="https://img.shields.io/badge/-Docker%20(Learning)-F8FAFC?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/-C%20(Basics)-F8FAFC?style=for-the-badge&logo=c&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/-Java%20(Basics)-F8FAFC?style=for-the-badge&logo=java&logoColor=007396" />
+  <img src="https://img.shields.io/badge/-Go%20(Learning)-F8FAFC?style=for-the-badge&logo=go&logoColor=00ADD8" />
+  <img src="https://img.shields.io/badge/-Kotlin%20(Learning)-F8FAFC?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
 </p>
 
 <p align="center">
   <sub>Scikit-learn • XGBoost • SHAP • Pandas • NumPy • Matplotlib</sub>
+</p>das • NumPy • Matplotlib</sub>
 </p>
 
 ---
