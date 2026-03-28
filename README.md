@@ -92,10 +92,8 @@
 <br/>
 
 <p align="center">
-  <sub>Take a look at what I’ve been building</sub><br/>
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/double-down.png" height="18" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=4000&color=94A3B8&center=true&vCenter=true&width=600&lines=Scroll+down+to+explore+my+projects;Built+with+passion+for+real-world+impact" />
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:1e293b,100:334155&text=%20&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
