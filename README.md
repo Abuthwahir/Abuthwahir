@@ -3,8 +3,24 @@
 </p>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:020617,40:0f172a,70:1e3a8a,100:38bdf8&text=%20&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend%20Systems-0f172a?style=for-the-badge&logo=server&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/API%20Design-0f172a?style=for-the-badge&logo=fastapi&logoColor=22c55e" />
+  <img src="https://img.shields.io/badge/Scalable%20Systems-0f172a?style=for-the-badge&logo=kubernetes&logoColor=6366f1" />
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=120&color=0:1e3a8a,100:0ea5e9&text=%20&animation=fadeIn" width="80%" />
+</p>
+<p align="center">
+  <img src="https://img.icons8.com/fluency/96/server.png" height="70"/>
+</p>
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3200&pause=900&color=CBD5E1&center=true&vCenter=true&width=900&lines=Hello+👋,+I'm+Abuthwahir;B.E+CSE+(AI+%26+ML);Building+Intelligent+Systems;Machine+Learning+%7C+Backend+%7C+Full-Stack" />
 </p>
+
 
 <br/>
 
