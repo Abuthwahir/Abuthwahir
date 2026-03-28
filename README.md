@@ -99,5 +99,9 @@
 </p>
 
 <p align="center">
-  <sub style="color:#94A3B8;">Explore my projects below</sub>
+  <img src="https://img.icons8.com/ios/50/94A3B8/double-down.png" height="28"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=0:020617,100:0f172a&text=%20&fontSize=20&animation=fadeIn" width="60%" />
 </p>
