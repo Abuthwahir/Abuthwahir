@@ -7,19 +7,21 @@
 </p>
 
 <!-- 🔥 ADDED PREMIUM DESIGN -->
+<!-- 🔥 NEW PREMIUM HERO (FIXED) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:020617,40:0f172a,70:1e3a8a,100:38bdf8&text=%20&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Designing+Scalable+Backend+Solutions" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend%20Systems-0f172a?style=for-the-badge&logo=server&logoColor=38bdf8" />
-  <img src="https://img.shields.io/badge/API%20Design-0f172a?style=for-the-badge&logo=fastapi&logoColor=22c55e" />
-  <img src="https://img.shields.io/badge/Scalable%20Systems-0f172a?style=for-the-badge&logo=kubernetes&logoColor=6366f1" />
+  <img src="https://img.shields.io/badge/⚙️%20Backend%20Systems-0f172a?style=for-the-badge&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/🔗%20API%20Design-0f172a?style=for-the-badge&logoColor=22c55e" />
+  <img src="https://img.shields.io/badge/🚀%20Scalable%20Systems-0f172a?style=for-the-badge&logoColor=6366f1" />
 </p>
 
 <p align="center">
-  <img src="https://img.icons8.com/fluency/96/server.png" height="70"/>
+  <img src="https://img.icons8.com/fluency/96/server.png" height="55"/>
 </p>
+<!-- 🔥 END -->>
 <!-- 🔥 END ADDED -->
 
 <br/>
