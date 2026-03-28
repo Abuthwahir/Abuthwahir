@@ -31,7 +31,7 @@
 
 <p align="center">
   <span style="font-size:23px; font-weight:650; letter-spacing:0.6px;">
-    📍 India &nbsp; • &nbsp; 🎓 PES University
+    📍 Bengaluru , India &nbsp; • &nbsp; 🎓 PES University
   </span>
 </p>
 
