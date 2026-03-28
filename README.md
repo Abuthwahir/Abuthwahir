@@ -3,6 +3,11 @@
 </p>
 
 <p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3200&pause=900&color=CBD5E1&center=true&vCenter=true&width=900&lines=Hello+👋,+I'm+Abuthwahir;B.E+CSE+(AI+%26+ML);Building+Intelligent+Systems;Machine+Learning+%7C+Backend+%7C+Full-Stack" />
+</p>
+
+<!-- 🔥 ADDED PREMIUM DESIGN -->
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:020617,40:0f172a,70:1e3a8a,100:38bdf8&text=%20&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
@@ -11,16 +16,11 @@
   <img src="https://img.shields.io/badge/API%20Design-0f172a?style=for-the-badge&logo=fastapi&logoColor=22c55e" />
   <img src="https://img.shields.io/badge/Scalable%20Systems-0f172a?style=for-the-badge&logo=kubernetes&logoColor=6366f1" />
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=120&color=0:1e3a8a,100:0ea5e9&text=%20&animation=fadeIn" width="80%" />
-</p>
+
 <p align="center">
   <img src="https://img.icons8.com/fluency/96/server.png" height="70"/>
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3200&pause=900&color=CBD5E1&center=true&vCenter=true&width=900&lines=Hello+👋,+I'm+Abuthwahir;B.E+CSE+(AI+%26+ML);Building+Intelligent+Systems;Machine+Learning+%7C+Backend+%7C+Full-Stack" />
-</p>
-
+<!-- 🔥 END ADDED -->
 
 <br/>
 
@@ -37,7 +37,9 @@
     <img src="https://img.icons8.com/ios-glyphs/90/ffffff/github.png" height="32" style="background:white; padding:6px; border-radius:10px;" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <p align="center">
+</p>
+
+<p align="center">
   <a href="https://youtube.com/@iDevMalayalam">
     <img src="https://img.icons8.com/fluency/96/youtube-play.png" height="36" />
   </a>
@@ -110,6 +112,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=4000&color=94A3B8&center=true&vCenter=true&width=600&lines=Scroll+down+to+explore+my+projects;Built+with+passion+for+real-world+impact" />
 </p>
+
 <p align="center">
   <img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/94A3B8/external-double-down-arrows-to-navigate-bottom-basic-ui-bold-tal-revivo.gif" height="35"/>
 </p>
