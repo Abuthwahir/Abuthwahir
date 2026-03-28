@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f172a,50:1e293b,100:334155&text=%20&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3200&pause=900&color=CBD5E1&center=true&vCenter=true&width=900&lines=Hello+👋,+I'm+Abuthwahir;B.E+CSE+(AI+%26+ML);Building+Intelligent+Systems;Machine+Learning+%7C+Backend+%7C+Full-Stack" />
