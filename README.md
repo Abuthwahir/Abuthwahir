@@ -34,13 +34,11 @@
     <img src="https://img.icons8.com/ios-glyphs/90/ffffff/github.png" height="32" style="background:white; padding:6px; border-radius:10px;" />
   </a>
   &nbsp;&nbsp;&nbsp;
-</p>
-
-<p align="center">
-  <a href="https://youtube.com/@iDevMalayalam">
+    <a href="https://youtube.com/@iDevMalayalam">
     <img src="https://img.icons8.com/fluency/96/youtube-play.png" height="36" />
   </a>
 </p>
+
 
 <br/>
 
