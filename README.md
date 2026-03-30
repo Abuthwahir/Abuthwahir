@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3200&pause=900&color=CBD5E1&center=true&vCenter=true&width=900&lines=Hello+👋,+I'm+Abuthwahir;B.E+CSE+(AI+%26+ML);Building+Intelligent+Systems;Machine+Learning+%7C+Backend+%7C+Full-Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3200&pause=900&color=CBD5E1&center=true&vCenter=true&width=900&lines=Hello+👋,+I'm+Abuthwahir+H+M;B.E+CSE+(AI+%26+ML);Building+Intelligent+Systems;Machine+Learning+%7C+Backend+%7C+Full-Stack" />
 </p>
 
 <!-- 🔥 ADDED PREMIUM DESIGN -->
