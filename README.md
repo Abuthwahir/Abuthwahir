@@ -15,9 +15,7 @@
   <img src="https://img.shields.io/badge/🚀%20Scalable%20Systems-0f172a?style=for-the-badge&logoColor=6366f1" />
 </p>
 
-<p align="center">
-  <img src="https://img.icons8.com/fluency/96/server.png" height="55"/>
-</p>
+
 <!-- 🔥 END -->>
 <!-- 🔥 END ADDED -->
 
