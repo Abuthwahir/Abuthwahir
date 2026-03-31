@@ -91,11 +91,11 @@
 
 <!-- LEARNING -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-Docker%20(Learning)-F8FAFC?style=for-the-badge&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/-C%20(Basics)-F8FAFC?style=for-the-badge&logo=c&logoColor=00599C" />
+  <img src="https://img.shields.io/badge/-Docker%20-F8FAFC?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/-C%20-F8FAFC?style=for-the-badge&logo=c&logoColor=00599C" />
   <img src="https://img.shields.io/badge/-Java%20(Basics)-F8FAFC?style=for-the-badge&logo=java&logoColor=007396" />
   <img src="https://img.shields.io/badge/-Go%20(Learning)-F8FAFC?style=for-the-badge&logo=go&logoColor=00ADD8" />
-  <img src="https://img.shields.io/badge/-Kotlin%20(Learning)-F8FAFC?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
+  <img src="https://img.shields.io/badge/-Kotlin%20(explorinng)-F8FAFC?style=for-the-badge&logo=kotlin&logoColor=7F52FF" />
 </p>
 
 <p align="center">
