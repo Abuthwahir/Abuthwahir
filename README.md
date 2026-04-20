@@ -3,16 +3,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3200&pause=900&color=CBD5E1&center=true&vCenter=true&width=900&lines=Hello+👋,+I'm+Abuthwahir+H+M;B.E+CSE+(AI+%26+ML);Building+Intelligent+Systems;Machine+Learning+%7C+Backend+%7C+Full-Stack" />
 </p>
 
-<p align="center">
-  <a href="https://abuthwahir.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Live%20Portfolio-Click%20Here-38BDF8?style=for-the-badge" />
-  </a>
-</p>
+
 
 <!-- 🔥 ADDED PREMIUM DESIGN -->
 <!-- 🔥 NEW PREMIUM HERO (FIXED) -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems;Designing+Scalable+Backend+Solutions" />
+</p>
+
+<p align="center">
+  <a href="https://abuthwahir.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Portfolio-Click%20Here-38BDF8?style=for-the-badge" />
+  </a>
 </p>
 
 <p align="center">
@@ -125,4 +127,9 @@
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&height=80&color=0:020617,100:0f172a&text=%20&fontSize=20&animation=fadeIn" width="60%" />
+</p>
+<p align="center">
+  <a href="https://abuthwahir.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20Portfolio-Click%20Here-38BDF8?style=for-the-badge" />
+  </a>
 </p>
