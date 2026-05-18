@@ -21,8 +21,6 @@
   <img src="https://img.shields.io/badge/🚀%20Scalable%20Systems-0f172a?style=for-the-badge&logoColor=6366f1" />
 </p>
 
-
-
 <!-- 🔥 END -->>
 <!-- 🔥 END ADDED -->
 
@@ -45,8 +43,6 @@
     <img src="https://img.icons8.com/fluency/96/youtube-play.png" height="36" />
   </a>
 </p>
-
-
 <br/>
 
 <p align="center">
@@ -60,7 +56,6 @@
 <p align="center">
   Building intelligent, scalable, and real-world AI systems.
 </p>
-
 <br/>
 
 <p align="center">
